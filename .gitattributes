@@ -1,0 +1,2 @@
+.utils/.chromium-browser-snapshots/chromium/**/chrome.dll filter=lfs diff=lfs merge=lfs -text
+.utils/.chromium-browser-snapshots/chromium/**/interactive_ui_tests.exe filter=lfs diff=lfs merge=lfs -text
